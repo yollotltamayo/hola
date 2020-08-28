@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap');
+.color{
+    animation:cambio 15s ease infinite;
+    font-family: 'Roboto Mono', monospace;
+}
+  @keyframes cambio{
+    0% {
+      background-color:#5D6D64;
+    }
+    10% {
+      background-color:#59746D;
+    }
+    20% {
+      background-color:#547B79;
+    }
+    30% {
+      background-color:#4F8288;
+    }
+    40% {
+      background-color:#4E8798;
+    }
+    50% {
+      background-color:#538CA9;
+    }
+    60% {
+      background-color:#5D6D64;
+    }
+    70% {
+      background-color:#59746D;
+    }
+    80% {
+      background-color:#547B79;
+    }
+    90% {
+      background-color:#4F8288;
+    }
+    100% {
+      background-color:#4E8798;
+    }
+
+  }
+
+
